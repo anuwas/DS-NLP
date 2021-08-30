@@ -33,4 +33,3 @@ print(nltk.TweetTokenizer().tokenize(text))
 # Output ['Let', 'me', 'know', 'your', 'mobile', '#', ',', 'if', "that's", 'fine', '.', 'The', 'call', 'rate', 'is', '1.2', 'p', '/', 's', '😊', '.']
 
 
-
